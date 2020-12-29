@@ -5,6 +5,7 @@
 #include "BmpWriter.h"
 #include <iostream>
 #include <iomanip>
+#include <cmath>
 
 BmpWriter::BmpWriter() {
     this->weight = 0;
