@@ -1,0 +1,5 @@
+# ignore target folder
+cmake-build-debug/
+
+# clion folder
+.idea/
